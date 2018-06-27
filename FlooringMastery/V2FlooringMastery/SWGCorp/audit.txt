@@ -1,0 +1,2 @@
+2018-02-12T17:54:10.374 : addOrder: 8Date : 2018-02-12 Order number : 8 Name : Kenny Area :  Product type : Wood Product CostPerSqFt : 5.15 Product Labor CostPerSqFt : 4.75 Tax : 66.83 TaxRate : 6.75100 State : PA Material cost : 990.00 Total : 1056.83
+2018-02-15T00:05:58.593 : addOrder: 9Date : 2018-02-15 Order number : 9 Name : Kenny Area :  Product type : Wood Product CostPerSqFt : 5.15 Product Labor CostPerSqFt : 4.75 Tax : 66.83 TaxRate : 6.75100 State : PA Material cost : 990.00 Total : 1056.83

@@ -1,0 +1,33 @@
+
+
+
+
+
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,              Wise,     OH,   6.25,     Wood,    100.00,5.15,              4.75,                515.00,      475.00, 61.88,  1051.88
+
+
+State,  TaxRate
+OH,     6.25
+PA,     6.75
+MI,     5.75
+IN,     6.00
+
+
+
+
+
+ProductType,  CostPerSquareFoot,  LaborCostPerSquareFoot
+Carpet,       2.25,                2.10
+Laminate,     1.75                ,2.10
+Tile,         3.50,                4.15
+Wood          ,5.15,                4.75
+
+
+area * costperSquarefoot = 515
+area * LaborCostPerSquareFoot = 475
+(convert percentage into decimal)
+990 * .0625
+= 61.875 TAX
+
+add 515 + 475 + 61.875 = total
